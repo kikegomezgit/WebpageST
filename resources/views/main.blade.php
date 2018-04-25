@@ -86,7 +86,7 @@
           <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav" id="main-menu">
               <li class="icon-link">
-                <a href="/"><i class="fa fa-home"></i></a>
+                <a href="/index"><i class="fa fa-home"></i></a>
               </li>
               
               <li><a href="/articulosd">Articulos Destacados</a></li>
